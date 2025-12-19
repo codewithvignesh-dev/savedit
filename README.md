@@ -23,4 +23,4 @@ It allows you to **inspect, edit, and safely modify** integer and float properti
 > **Single-line setup command**
 
 ```sh
-pkg install -y wget && wget -q https://github.com/<USERNAME>/savedit/releases/latest/download/savedit && chmod +x savedit && mv savedit $PREFIX/bin/
+pkg install -y wget && wget -q https://github.com/codewithvignesh-dev/savedit/releases/latest/download/savedit && chmod +x savedit && mv savedit $PREFIX/bin/
